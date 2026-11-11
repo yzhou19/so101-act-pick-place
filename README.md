@@ -70,7 +70,7 @@ Model: [`yiming19/act_pick_ball_v2`](https://huggingface.co/yiming19/act_pick_ba
 | `check_policy.py` | Offline check: compares predicted and recorded actions on dataset frames |
 | `make_media.py` | Builds the GIF and MP4 above from a recorded evaluation |
 
-Trained models go in `models/<name>/` (not tracked; download from Hugging Face). Script comments are in Chinese.
+Trained models go in `models/<name>/` (not tracked; download from Hugging Face).
 
 ```bash
 conda activate lerobot          # LeRobot 0.7.1
